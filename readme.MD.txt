@@ -1,0 +1,1 @@
+Esercizio su Gestione lavoratori con liste
