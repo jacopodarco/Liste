@@ -1,0 +1,6 @@
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\bin\Debug\GestioneLavoratoriListe.exe.config
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\bin\Debug\GestioneLavoratoriListe.exe
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\bin\Debug\GestioneLavoratoriListe.pdb
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\obj\Debug\GestioneLavoratoriListe.csprojAssemblyReference.cache
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\obj\Debug\GestioneLavoratoriListe.exe
+C:\Users\CORSO 55\Desktop\MATERIALE CORSO EURIS\GestioneLavoratoriListe\GestioneLavoratoriListe\obj\Debug\GestioneLavoratoriListe.pdb
